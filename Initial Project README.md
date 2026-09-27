@@ -42,6 +42,7 @@ This project is being developed as part of my AWS re/Start learning journey.
 Important Note
 This project is intended to provide information about available support services. It does not provide medical, psychological, legal or emergency services directly.
 Users should contact qualified professionals or appropriate emergency services when immediate assistance is required.
+
 Author
 Fikile Pretty Mbambo
 AWS re/Start Learner | Aspiring Cloud Professional
