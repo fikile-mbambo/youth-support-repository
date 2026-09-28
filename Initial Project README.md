@@ -68,6 +68,9 @@ This project is intended to provide information about available support services
 Users should contact qualified professionals or appropriate emergency services when immediate assistance is required.
 
 Author
+
 Fikile Pretty Mbambo
+
 AWS re/Start Learner | Aspiring Cloud Professional
+
 South Africa
